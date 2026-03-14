@@ -1,1 +1,2 @@
-# sp500-web-scraper-using-beautifulsoup
+# sp500 Web Scraper using Beautifulsoup
+
