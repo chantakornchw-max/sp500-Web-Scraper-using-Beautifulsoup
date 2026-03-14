@@ -13,6 +13,8 @@ This project demonstrates a Python-based web scraping pipeline designed to extra
 
 • pandas: Structures the scraped data into a clean DataFrame and exports to CSV.
 
+• warnings: This library is used to manage system notifications.
+
 ## Dataset & Features
 The scraper successfully extracts the following features for all 500+ constituent companies:
 
